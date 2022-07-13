@@ -23,12 +23,28 @@ namespace WindowsFormsApp1
 
         private void button1_Click(object sender, System.EventArgs e)
         {
-            Paint += new PaintEventHandler(pictureBox1_Paint);
+            panel1.Paint += new PaintEventHandler(pictureBox1_Paint);
+            panel1.Refresh();
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void CloseForm(object sender, EventArgs e)
         {
-            panel1.Refresh();
+            this.Close();
+        }
+
+        private void Reset(object sender, EventArgs e)
+        {
+            point1 = new Point();
+            point2 = new Point();
+            point3 = new Point();
+            point4 = new Point();
+
+            label1.Text = "Point 1 Coordinates: ";
+            label2.Text = "Point 2 Coordinates: ";
+            label3.Text = "Point 3 Coordinates: ";
+            label4.Text = "Point 4 Coordinates: ";
+
+            panel1.Invalidate();
         }
 
         private void Window1_MouseClick(object sender, MouseEventArgs e)
@@ -80,7 +96,6 @@ namespace WindowsFormsApp1
             Pen drawingTool = new Pen(Color.Black, 4);
             e.Graphics.DrawLine(drawingTool, pX1, pY1, pX2, pY2);
             e.Graphics.DrawLine(drawingTool, pX3, pY3, pX4, pY4);
-
         }
     }
 }
