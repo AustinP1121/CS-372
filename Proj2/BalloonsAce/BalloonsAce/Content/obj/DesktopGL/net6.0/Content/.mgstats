@@ -1,0 +1,9 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/CS-372/Proj2/BalloonsAce/BalloonsAce/Content/circle-100 (1).png","D:/CS-372/Proj2/BalloonsAce/BalloonsAce/Content/bin/DesktopGL/Content/greenCircleT.xnb","TextureProcessor","Texture2DContent",3826,40085,0.1323238
+"D:/CS-372/Proj2/BalloonsAce/BalloonsAce/Content/circle-100.png","D:/CS-372/Proj2/BalloonsAce/BalloonsAce/Content/bin/DesktopGL/Content/yellowCircle1.xnb","TextureProcessor","Texture2DContent",4047,40085,0.1089451
+"D:/CS-372/Proj2/BalloonsAce/BalloonsAce/Content/greenCircle.jfif","D:/CS-372/Proj2/BalloonsAce/BalloonsAce/Content/bin/DesktopGL/Content/greenCircle.xnb","TextureProcessor","Texture2DContent",2891,93109,0.1190836
+"D:/CS-372/Proj2/BalloonsAce/BalloonsAce/Content/myfont.spritefont","D:/CS-372/Proj2/BalloonsAce/BalloonsAce/Content/bin/DesktopGL/Content/myfont.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21535,0.1943191
+"D:/CS-372/Proj2/BalloonsAce/BalloonsAce/Content/planeDefault.png","D:/CS-372/Proj2/BalloonsAce/BalloonsAce/Content/bin/DesktopGL/Content/planeDefault.xnb","TextureProcessor","Texture2DContent",15928,262229,0.1381844
+"D:/CS-372/Proj2/BalloonsAce/BalloonsAce/Content/pngfind.com-kovil-gopuram-png-2760512.png","D:/CS-372/Proj2/BalloonsAce/BalloonsAce/Content/bin/DesktopGL/Content/greenCircleTest.xnb","TextureProcessor","Texture2DContent",6876,40885,0.1159378
+"D:/CS-372/Proj2/BalloonsAce/BalloonsAce/Content/pngfind.com-yellow-circle-png-1566517.png","D:/CS-372/Proj2/BalloonsAce/BalloonsAce/Content/bin/DesktopGL/Content/yellowCircleTest.xnb","TextureProcessor","Texture2DContent",2684,41701,0.1105723
+"D:/CS-372/Proj2/BalloonsAce/BalloonsAce/Content/yellowCircle.jfif","D:/CS-372/Proj2/BalloonsAce/BalloonsAce/Content/bin/DesktopGL/Content/yellowCircle.xnb","TextureProcessor","Texture2DContent",2086,69781,0.0032112

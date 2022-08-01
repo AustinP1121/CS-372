@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gUSp78tFwgjfeTNl5/TXCvEcTYxHkHX3dnOzsj+ZxGND0eMHk0fu2Wu7eO4nKjQpNb0qy+A5qzyGvKlcvjc/GA==",
+  "success": true,
+  "projectFilePath": "D:\\CS-372\\Project2\\BalloonsAce\\Project19\\Project19\\Project19.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hydra\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.263\\monogame.content.builder.task.3.8.1.263.nupkg.sha512",
+    "C:\\Users\\hydra\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.263\\monogame.framework.desktopgl.3.8.1.263.nupkg.sha512",
+    "C:\\Users\\hydra\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
